@@ -3,7 +3,7 @@
 This repository contains various **Python programs** covering fundamental concepts and libraries like **lists, tuples, dictionaries, sets, NumPy, pandas, and more**.  
 
 ##  Contents  
-- 🔹 **Basic Python Codes** (loops, functions, conditionals)  
+- 🔹 **Basic Python Codes** (loops, functions, conditionals etc.)  
 - 🔹 **Lists & Tuples** (operations, slicing, methods)  
 - 🔹 **Dictionaries** (key-value manipulation, nested dicts)  
 - 🔹 **Sets** (set operations, uniqueness, performance)  
